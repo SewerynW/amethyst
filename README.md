@@ -1,12 +1,12 @@
-# amethyst
+# Amethyst
 
-Application show speed of sort algorithms
+Everyone what find the fastes way to go out from the labirynt.
 
-# tech stack
+### tech stack
 
-Vue.js
-EsLint
-Prettier
+Vue.js  
+EsLint  
+Prettier  
 SaSS
 
 # Check it online here
